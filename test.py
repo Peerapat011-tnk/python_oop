@@ -1,2 +1,7 @@
 print("Hellow Python")
 print("My name's Peerapat Rakwhan")
+print("My nickname's KAATII")
+print("19 yearold")
+print("NO : 11")
+print("stdid 67319010011")
+print("HOBBY : PLayguitar")
