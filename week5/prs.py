@@ -13,6 +13,8 @@ def PRS():
             print("คุณชนะ")
         elif Ans == "กระดาษ" and a == "ค้อน" :
             print("คุณชนะ")
+        elif Ans == a :
+            print("เสมอ")
         else :
             print("คุณแพ้")
     
